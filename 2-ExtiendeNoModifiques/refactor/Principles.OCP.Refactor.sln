@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principles.OCP.Refactor", "Principles.OCP.Refactor\Principles.OCP.Refactor.csproj", "{417DB70E-48ED-4061-A784-07739407D02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417DB70E-48ED-4061-A784-07739407D02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417DB70E-48ED-4061-A784-07739407D02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417DB70E-48ED-4061-A784-07739407D02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417DB70E-48ED-4061-A784-07739407D02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1723A365-47C1-466A-81E4-171601697753}
+	EndGlobalSection
+EndGlobal
