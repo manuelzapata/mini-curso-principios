@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principles.SRP.Symptom", "Principles.SRP.Symptom\Principles.SRP.Symptom.csproj", "{13896D6B-8E06-4620-8451-C7EB9216C0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13896D6B-8E06-4620-8451-C7EB9216C0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13896D6B-8E06-4620-8451-C7EB9216C0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13896D6B-8E06-4620-8451-C7EB9216C0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13896D6B-8E06-4620-8451-C7EB9216C0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {279AC970-3F92-4CD2-B910-282EAD6A8AE1}
+	EndGlobalSection
+EndGlobal
