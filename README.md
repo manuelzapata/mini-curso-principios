@@ -6,7 +6,7 @@ Código fuente del mini curso de principios de diseño SOLID
 ## Lecciones
 
 1. [Una sola razón](1-UnaSolaRazon).
-2. Extiende, no modifiques.
-3. De tal padre, tal hijo.
-4. No dependas de lo que no necesites.
-5. Lo abstracto también es bueno.
+2. [Extiende, no modifiques](2-ExtiendeNoModifiques).
+3. [De tal padre, tal hijo](3-TalPadreTalHijo).
+4. [No dependas de lo que no necesites](4-NoDependasNoNecesites).
+5. [Lo abstracto también es bueno](5-AbstractoBueno).
